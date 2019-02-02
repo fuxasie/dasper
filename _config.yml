@@ -18,14 +18,14 @@ permalink: /:categories/:year/:month/:day/:title
 baseurl: https://ozgrozer.github.io/dasper
 
 # Includes
-addthisId: "good"
-disqusUsername: "ss"
-googleAnalyticsId: "sd"
+addthisId: ""
+disqusUsername: ""
+googleAnalyticsId: ""
 
 # Search engine verifications
-bing: "dfdsf"
-yandex: "dfdd"
-google: "kkkkk"
+bing: ""
+yandex: ""
+google: ""
 
 # Sitemap
 sitemap:
