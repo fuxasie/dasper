@@ -4,4 +4,3 @@ node_modules
 config.codekit3
 *.sublime-project
 *.sublime-workspace
-*.md
