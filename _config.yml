@@ -1,10 +1,10 @@
 # Website details
-name: Name
-description: Description
-email: email@site.com
+name: 土豆-天然土豆
+description: 山高水短，来日方长
+email: fuxasie@gmail.com
 author: author
-lang: en
-locale: en_US
+lang: ch
+locale: ch_US
 
 # Jekyll
 paginate: 10
